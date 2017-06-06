@@ -2,322 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="544843bb-a0d8-4401-8ad4-7db49ddeee7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config/endpoints.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/containers/Home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/containers/Profile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/containers/Template.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/routes/index.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/.bin/react-scripts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/PATENTS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/error/GraphQLError.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/error/GraphQLError.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/error/formatError.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/error/formatError.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/error/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/error/index.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/error/locatedError.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/error/locatedError.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/error/syntaxError.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/error/syntaxError.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/execution/execute.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/execution/execute.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/execution/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/execution/index.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/execution/values.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/execution/values.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/graphql.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/graphql.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/index.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/find.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/find.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/invariant.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/invariant.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/isInvalid.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/isInvalid.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/isNullish.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/isNullish.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/keyMap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/keyMap.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/keyValMap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/keyValMap.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/quotedOrList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/quotedOrList.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/suggestionList.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/jsutils/suggestionList.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/ast.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/ast.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/index.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/kinds.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/kinds.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/lexer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/lexer.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/location.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/location.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/parser.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/printer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/printer.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/source.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/source.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/visitor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/language/visitor.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/definition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/definition.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/directives.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/directives.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/index.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/introspection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/introspection.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/scalars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/scalars.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/schema.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/type/schema.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/TypeInfo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/TypeInfo.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/assertValidName.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/assertValidName.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/astFromValue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/astFromValue.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/buildASTSchema.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/buildASTSchema.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/buildClientSchema.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/buildClientSchema.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/concatAST.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/concatAST.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/extendSchema.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/extendSchema.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/findBreakingChanges.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/findBreakingChanges.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/getOperationAST.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/getOperationAST.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/index.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/introspectionQuery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/introspectionQuery.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/isValidJSValue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/isValidJSValue.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/isValidLiteralValue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/isValidLiteralValue.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/schemaPrinter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/schemaPrinter.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/separateOperations.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/separateOperations.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/typeComparators.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/typeComparators.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/typeFromAST.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/typeFromAST.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/valueFromAST.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/utilities/valueFromAST.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/index.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/ArgumentsOfCorrectType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/ArgumentsOfCorrectType.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/DefaultValuesOfCorrectType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/DefaultValuesOfCorrectType.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/FieldsOnCorrectType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/FieldsOnCorrectType.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/FragmentsOnCompositeTypes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/FragmentsOnCompositeTypes.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/KnownArgumentNames.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/KnownArgumentNames.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/KnownDirectives.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/KnownDirectives.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/KnownFragmentNames.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/KnownFragmentNames.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/KnownTypeNames.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/KnownTypeNames.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/LoneAnonymousOperation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/LoneAnonymousOperation.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/NoFragmentCycles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/NoFragmentCycles.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/NoUndefinedVariables.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/NoUndefinedVariables.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/NoUnusedFragments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/NoUnusedFragments.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/NoUnusedVariables.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/NoUnusedVariables.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMerged.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMerged.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/PossibleFragmentSpreads.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/PossibleFragmentSpreads.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/ProvidedNonNullArguments.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/ProvidedNonNullArguments.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/ScalarLeafs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/ScalarLeafs.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueArgumentNames.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueArgumentNames.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueDirectivesPerLocation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueDirectivesPerLocation.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueFragmentNames.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueFragmentNames.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueInputFieldNames.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueInputFieldNames.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueOperationNames.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueOperationNames.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueVariableNames.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/UniqueVariableNames.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/VariablesAreInputTypes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/VariablesAreInputTypes.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/VariablesInAllowedPosition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/rules/VariablesInAllowedPosition.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/specifiedRules.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/specifiedRules.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/validate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/babel-relay-plugin/node_modules/graphql/validation/validate.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/node_modules/iterall/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/node_modules/iterall/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/node_modules/iterall/index.d.ts" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/node_modules/iterall/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/node_modules/iterall/index.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/node_modules/iterall/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/subscription/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/subscription/index.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/subscription/mapAsyncIterator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/subscription/mapAsyncIterator.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/subscription/subscribe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/subscription/subscribe.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/findDeprecatedUsages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/findDeprecatedUsages.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/SingleFieldSubscriptions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/SingleFieldSubscriptions.js.flow" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/graphql/yarn.lock" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/bin/react-scripts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/env.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/babelTransform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/cssTransform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/fileTransform.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/paths.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/polyfills.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.dev.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.prod.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/webpackDevServer.config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/.bin/eslint" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/.bin/jest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/.bin/webpack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/.bin/webpack-dev-server" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/eject.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/start.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/utils/createJestConfig.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/public/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/public/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/public/manifest.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/App.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/App.test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/logo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/src/registerServiceWorker.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" afterPath="$PROJECT_DIR$/node_modules/.yarn-integrity" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/README.md" afterPath="$PROJECT_DIR$/node_modules/graphql/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/error/GraphQLError.js" afterPath="$PROJECT_DIR$/node_modules/graphql/error/GraphQLError.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/error/GraphQLError.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/error/GraphQLError.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/error/formatError.js" afterPath="$PROJECT_DIR$/node_modules/graphql/error/formatError.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/execution/execute.js" afterPath="$PROJECT_DIR$/node_modules/graphql/execution/execute.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/execution/execute.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/execution/execute.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/execution/values.js" afterPath="$PROJECT_DIR$/node_modules/graphql/execution/values.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/execution/values.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/execution/values.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/graphql.js" afterPath="$PROJECT_DIR$/node_modules/graphql/graphql.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/graphql.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/graphql.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/index.js" afterPath="$PROJECT_DIR$/node_modules/graphql/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/index.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/index.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/jsutils/keyMap.js" afterPath="$PROJECT_DIR$/node_modules/graphql/jsutils/keyMap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/jsutils/keyMap.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/jsutils/keyMap.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/jsutils/keyValMap.js" afterPath="$PROJECT_DIR$/node_modules/graphql/jsutils/keyValMap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/jsutils/keyValMap.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/jsutils/keyValMap.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/language/ast.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/language/ast.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/language/index.js" afterPath="$PROJECT_DIR$/node_modules/graphql/language/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/language/index.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/language/index.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/language/parser.js" afterPath="$PROJECT_DIR$/node_modules/graphql/language/parser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/language/parser.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/language/parser.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/language/source.js" afterPath="$PROJECT_DIR$/node_modules/graphql/language/source.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/language/source.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/language/source.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/language/visitor.js" afterPath="$PROJECT_DIR$/node_modules/graphql/language/visitor.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/language/visitor.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/language/visitor.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/package.json" afterPath="$PROJECT_DIR$/node_modules/graphql/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/definition.js" afterPath="$PROJECT_DIR$/node_modules/graphql/type/definition.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/definition.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/type/definition.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/directives.js" afterPath="$PROJECT_DIR$/node_modules/graphql/type/directives.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/directives.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/type/directives.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/index.js" afterPath="$PROJECT_DIR$/node_modules/graphql/type/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/index.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/type/index.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/introspection.js" afterPath="$PROJECT_DIR$/node_modules/graphql/type/introspection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/introspection.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/type/introspection.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/scalars.js" afterPath="$PROJECT_DIR$/node_modules/graphql/type/scalars.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/scalars.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/type/scalars.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/schema.js" afterPath="$PROJECT_DIR$/node_modules/graphql/type/schema.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/type/schema.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/type/schema.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/TypeInfo.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/TypeInfo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/TypeInfo.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/TypeInfo.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/assertValidName.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/assertValidName.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/assertValidName.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/assertValidName.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/astFromValue.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/astFromValue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/buildASTSchema.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/buildASTSchema.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/buildASTSchema.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/buildASTSchema.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/buildClientSchema.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/buildClientSchema.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/buildClientSchema.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/buildClientSchema.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/extendSchema.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/extendSchema.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/extendSchema.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/extendSchema.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/findBreakingChanges.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/findBreakingChanges.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/findBreakingChanges.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/findBreakingChanges.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/index.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/index.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/index.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/isValidJSValue.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/isValidJSValue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/isValidJSValue.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/isValidJSValue.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/isValidLiteralValue.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/isValidLiteralValue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/isValidLiteralValue.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/isValidLiteralValue.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/schemaPrinter.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/schemaPrinter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/separateOperations.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/separateOperations.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/separateOperations.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/separateOperations.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/typeComparators.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/typeComparators.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/typeComparators.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/typeComparators.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/typeFromAST.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/typeFromAST.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/typeFromAST.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/typeFromAST.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/valueFromAST.js" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/valueFromAST.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/utilities/valueFromAST.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/utilities/valueFromAST.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/index.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/index.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/index.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/ArgumentsOfCorrectType.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/ArgumentsOfCorrectType.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/DefaultValuesOfCorrectType.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/DefaultValuesOfCorrectType.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/FieldsOnCorrectType.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/FieldsOnCorrectType.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/FieldsOnCorrectType.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/FieldsOnCorrectType.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/FragmentsOnCompositeTypes.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/FragmentsOnCompositeTypes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/FragmentsOnCompositeTypes.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/FragmentsOnCompositeTypes.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/KnownArgumentNames.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/KnownArgumentNames.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/KnownDirectives.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/KnownDirectives.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/KnownTypeNames.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/KnownTypeNames.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMerged.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMerged.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMerged.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/OverlappingFieldsCanBeMerged.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/ProvidedNonNullArguments.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/ProvidedNonNullArguments.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/ScalarLeafs.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/ScalarLeafs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/ScalarLeafs.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/ScalarLeafs.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/UniqueDirectivesPerLocation.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/UniqueDirectivesPerLocation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/UniqueFragmentNames.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/UniqueFragmentNames.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/UniqueFragmentNames.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/UniqueFragmentNames.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/UniqueOperationNames.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/UniqueOperationNames.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/rules/UniqueOperationNames.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/rules/UniqueOperationNames.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/specifiedRules.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/specifiedRules.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/specifiedRules.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/specifiedRules.js.flow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/validate.js" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/validate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/graphql/validation/validate.js.flow" afterPath="$PROJECT_DIR$/node_modules/graphql/validation/validate.js.flow" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Template.js" afterPath="$PROJECT_DIR$/src/containers/Template.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="$PROJECT_DIR$/yarn.lock" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -336,9 +24,11 @@
       <file leaf-file-name="Template.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/containers/Template.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-              <folding />
+            <state relative-caret-position="272">
+              <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -362,11 +52,11 @@
         <option value="$PROJECT_DIR$/config/webpack.config.dev.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/config/endpoints.js" />
-        <option value="$PROJECT_DIR$/src/containers/Template.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/routes/index.js" />
         <option value="$PROJECT_DIR$/src/containers/Home.js" />
         <option value="$PROJECT_DIR$/src/containers/Profile.js" />
+        <option value="$PROJECT_DIR$/src/containers/Template.js" />
       </list>
     </option>
   </component>
@@ -466,6 +156,60 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tictacturing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tictacturing" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tictacturing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tictacturing" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="material-ui" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tictacturing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tictacturing" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="material-ui" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -555,23 +299,23 @@
       <updated>1496679423809</updated>
       <workItem from="1496679425959" duration="936000" />
       <workItem from="1496683578752" duration="629000" />
-      <workItem from="1496697979074" duration="4214000" />
+      <workItem from="1496697979074" duration="4752000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9466000" />
+    <option name="totallyTimeSpent" value="10004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="684" y="-2137" width="1915" height="1277" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43485764" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43485764" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16764548" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -636,8 +380,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <element signature="e#183#234#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
+            <element signature="e#183#234#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -663,8 +407,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <element signature="e#183#234#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
+            <element signature="e#183#234#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -698,8 +442,8 @@
         <state relative-caret-position="239">
           <caret line="52" column="46" lean-forward="false" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
           <folding>
-            <marker date="1496762628000" expanded="true" signature="2501:2548" ph="{...}" />
-            <marker date="1496762628000" expanded="true" signature="2519:2544" ph="[...]" />
+            <marker date="1496763375000" expanded="true" signature="2571:2618" ph="{...}" />
+            <marker date="1496763375000" expanded="true" signature="2589:2614" ph="[...]" />
           </folding>
         </state>
       </provider>
@@ -725,8 +469,8 @@
         <state relative-caret-position="224">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
           <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <element signature="e#183#234#0" expanded="true" />
+            <element signature="e#0#25#0" expanded="false" />
+            <element signature="e#183#234#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -757,9 +501,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/containers/Template.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-          <folding />
+        <state relative-caret-position="272">
+          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
